@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Integral-Health/static/css/main.2870193b.css",
-    "main.js": "/Integral-Health/static/js/main.7d81da11.js",
+    "main.js": "/Integral-Health/static/js/main.833f3327.js",
     "static/js/787.27814ec3.chunk.js": "/Integral-Health/static/js/787.27814ec3.chunk.js",
     "static/media/logo.svg": "/Integral-Health/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Integral-Health/index.html",
     "main.2870193b.css.map": "/Integral-Health/static/css/main.2870193b.css.map",
-    "main.7d81da11.js.map": "/Integral-Health/static/js/main.7d81da11.js.map",
+    "main.833f3327.js.map": "/Integral-Health/static/js/main.833f3327.js.map",
     "787.27814ec3.chunk.js.map": "/Integral-Health/static/js/787.27814ec3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2870193b.css",
-    "static/js/main.7d81da11.js"
+    "static/js/main.833f3327.js"
   ]
 }
