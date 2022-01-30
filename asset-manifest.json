@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jonhetrick/Integral-Health/static/css/main.073c9b0a.css",
-    "main.js": "/jonhetrick/Integral-Health/static/js/main.00d99b28.js",
-    "static/js/787.27814ec3.chunk.js": "/jonhetrick/Integral-Health/static/js/787.27814ec3.chunk.js",
-    "static/media/logo.svg": "/jonhetrick/Integral-Health/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jonhetrick/Integral-Health/index.html",
-    "main.073c9b0a.css.map": "/jonhetrick/Integral-Health/static/css/main.073c9b0a.css.map",
-    "main.00d99b28.js.map": "/jonhetrick/Integral-Health/static/js/main.00d99b28.js.map",
-    "787.27814ec3.chunk.js.map": "/jonhetrick/Integral-Health/static/js/787.27814ec3.chunk.js.map"
+    "main.css": "/Integral-Health/static/css/main.073c9b0a.css",
+    "main.js": "/Integral-Health/static/js/main.5e875c37.js",
+    "static/js/787.27814ec3.chunk.js": "/Integral-Health/static/js/787.27814ec3.chunk.js",
+    "static/media/logo.svg": "/Integral-Health/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Integral-Health/index.html",
+    "main.073c9b0a.css.map": "/Integral-Health/static/css/main.073c9b0a.css.map",
+    "main.5e875c37.js.map": "/Integral-Health/static/js/main.5e875c37.js.map",
+    "787.27814ec3.chunk.js.map": "/Integral-Health/static/js/787.27814ec3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.00d99b28.js"
+    "static/js/main.5e875c37.js"
   ]
 }
