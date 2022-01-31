@@ -1,6 +1,7 @@
 {
   "name": "integral-health-react-app",
   "version": "0.1.0",
+  "license": "MIT",
   "private": true,
   "homepage": "https://jonhetrick.github.io/Integral-Health",
   "dependencies": {
